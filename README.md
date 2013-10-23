@@ -1,7 +1,7 @@
 Lively
 ========
 
-Do what you like
+Do what you like on the fly live
 
 ### Name from Transformer Comics
 Springer is a green Autobot Triple Changer who can transform into both a Cybertronian car and a helicopter.
